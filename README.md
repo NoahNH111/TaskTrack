@@ -8,4 +8,4 @@
 
 ## Design Document
 
--[Design Document][https://docs.google.com/document/d/1tK7PxnZPDKh0pkexuqa2I0_F7t11DdcSV2SeP-eUEU0/edit?tab=t.0]
+- [Design Document][https://docs.google.com/document/d/1tK7PxnZPDKh0pkexuqa2I0_F7t11DdcSV2SeP-eUEU0/edit?tab=t.0]
